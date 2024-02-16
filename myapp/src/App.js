@@ -1,7 +1,7 @@
 import "./App.css";
-import Profile from "./Components/Profile/Profile";
-import Login from "./Components/Login/Login";
-import Register from "./Components/Register/Register";
+import Profile from "./components/Profile/Profile";
+import Login from "./components/Login/Login";
+import Register from "./components/Register/Register";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { useState } from "react";
 
